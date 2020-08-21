@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <Avatar />
-        <h2>Hi !! I'm Luan</h2>
+        <h2>Hi :) !! I'm Luan</h2>
         <div className="grid">
           <a href="https://www.linkedin.com/in/luanpontolio/" target="_blank" className="card">
             <h3>LinkedIn</h3>
